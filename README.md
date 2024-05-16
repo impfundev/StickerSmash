@@ -1,6 +1,6 @@
 # StickerSmash app ![Icon](/assets/favicon.png)
 
-Android App build with React Native for add Sticket on the photos.
+Android App build with React Native for add Sticker on the photos.
 
 ## Start on development mode
 
